@@ -28,7 +28,7 @@ public:
     }
     
     void ShowInfo(){
-        cout<<name<<' '<<surname<<' '<<age<<' '<<salary<<'\n';
+        cout<<name<<' '<<surname<<' '<<age<<' '<<salary<<' '<<promoted<<'\n';
     }
     
     Employee(string name, string surname, int age, double salary, int promoted){
@@ -45,11 +45,14 @@ public:
 int main() {
     Employee e1("Marcin", "Radom", 23, 4000, 0);
     e1.AskForPromotion();
+    e1.ShowInfo();
     
     Employee e2("Igor", "Oleszek", 35, 2499.00, 0);
     e2.AskForPromotion();
+    e2.ShowInfo();
     
     Employee e3 = e2.Promote(2000);
     e3.ShowInfo();
+    
     return 0;
 }
