@@ -32,11 +32,11 @@ private:
 public:
     void AddedCurrency(float value, std::string currency) {
         balance += value * EuroToRate(currency);
-        printf("%.4f %s added or %.4f EUR\n", value, currency, value * EuroToRate(currency));
+        std::cout<<value<<' ' << currency << " added or "<< value * EuroToRate(currency) <<" EUR\n";
     }
     void SubtractedCurrency(float value, std::string currency) {
         balance -= value * EuroToRate(currency);
-        printf("%.4f %s substracted or %.4f EUR\n", value, currency, value * EuroToRate(currency));
+        std::cout << value << ' ' << currency << " subtracted or " << value * EuroToRate(currency) << " EUR\n";
     }
     std::string Abbreviation(){
         return "EUR\n";
