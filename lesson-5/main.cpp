@@ -48,7 +48,7 @@ public:
         return std::to_string(balance) + " EUR\n";
     }
     float DollarExchangeRate() {
-        return EuroToRate("USD\n");
+        return EuroToRate("USD");
     }
 
 
