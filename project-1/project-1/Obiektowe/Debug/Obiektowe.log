@@ -1,0 +1,84 @@
+﻿  Item.cpp
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.h(8,29): error C2061: синтаксическая ошибка: идентификатор "string"
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.h(12,9): error C3646: getName: неизвестный спецификатор переопределения
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.h(12,16): error C2059: синтаксическая ошибка: (
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.h(12,19): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.h(14,9): error C3646: getDescription: неизвестный спецификатор переопределения
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.h(14,23): error C2059: синтаксическая ошибка: (
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.h(14,26): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.h(23,9): error C3646: m_name: неизвестный спецификатор переопределения
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.h(23,15): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.h(24,9): error C3646: m_description: неизвестный спецификатор переопределения
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.h(24,22): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.cpp(7,7): error C2511: Item::Item(int,double,std::string,std::string): перегруженная функция-член не найдена в "Item"
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.h(5,7): message : см. объявление "Item"
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.cpp(8,70): error C2550: Item::{ctor}: список инициализации конструктора должен использоваться только в месте определения конструктора
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.cpp(12,10): error C2065: m_description: необъявленный идентификатор
+  main.cpp
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.h(8,29): error C2061: синтаксическая ошибка: идентификатор "string"
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.h(12,9): error C3646: getName: неизвестный спецификатор переопределения
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.h(12,16): error C2059: синтаксическая ошибка: (
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.h(12,19): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.h(14,9): error C3646: getDescription: неизвестный спецификатор переопределения
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.h(14,23): error C2059: синтаксическая ошибка: (
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.h(14,26): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.h(23,9): error C3646: m_name: неизвестный спецификатор переопределения
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.h(23,15): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.h(24,9): error C3646: m_description: неизвестный спецификатор переопределения
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.h(24,22): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\main.cpp(88,28): warning C4018: >: несоответствие типов со знаком и без знака
+  RPGGame.cpp
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.h(8,29): error C2061: синтаксическая ошибка: идентификатор "string"
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.h(12,9): error C3646: getName: неизвестный спецификатор переопределения
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.h(12,16): error C2059: синтаксическая ошибка: (
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.h(12,19): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.h(14,9): error C3646: getDescription: неизвестный спецификатор переопределения
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.h(14,23): error C2059: синтаксическая ошибка: (
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.h(14,26): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.h(23,9): error C3646: m_name: неизвестный спецификатор переопределения
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.h(23,15): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.h(24,9): error C3646: m_description: неизвестный спецификатор переопределения
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.h(24,22): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\RPGGame.cpp(6,6): error C2661: Item::Item: нет перегруженной функции, принимающей 4 аргументов
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\RPGGame.cpp(6,6): message : при попытке сопоставить список аргументов "(int, double, std::string, std::string)"
+  SimulationGame.cpp
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.h(8,29): error C2061: синтаксическая ошибка: идентификатор "string"
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.h(12,9): error C3646: getName: неизвестный спецификатор переопределения
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.h(12,16): error C2059: синтаксическая ошибка: (
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.h(12,19): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.h(14,9): error C3646: getDescription: неизвестный спецификатор переопределения
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.h(14,23): error C2059: синтаксическая ошибка: (
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.h(14,26): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.h(23,9): error C3646: m_name: неизвестный спецификатор переопределения
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.h(23,15): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.h(24,9): error C3646: m_description: неизвестный спецификатор переопределения
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.h(24,22): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\SimulationGame.cpp(6,8): error C2661: Item::Item: нет перегруженной функции, принимающей 4 аргументов
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\SimulationGame.cpp(6,8): message : при попытке сопоставить список аргументов "(int, double, std::string, std::string)"
+  Store.cpp
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.h(8,29): error C2061: синтаксическая ошибка: идентификатор "string"
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.h(12,9): error C3646: getName: неизвестный спецификатор переопределения
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.h(12,16): error C2059: синтаксическая ошибка: (
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.h(12,19): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.h(14,9): error C3646: getDescription: неизвестный спецификатор переопределения
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.h(14,23): error C2059: синтаксическая ошибка: (
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.h(14,26): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.h(23,9): error C3646: m_name: неизвестный спецификатор переопределения
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.h(23,15): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.h(24,9): error C3646: m_description: неизвестный спецификатор переопределения
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.h(24,22): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Store.cpp(61,19): error C2039: "getName": не является членом "Item".
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.h(5,7): message : см. объявление "Item"
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Store.cpp(61,40): error C2039: "getName": не является членом "Item".
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.h(5,7): message : см. объявление "Item"
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Store.cpp(69,29): error C2039: "getName": не является членом "Item".
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.h(5,7): message : см. объявление "Item"
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Store.cpp(69,83): error C2039: "getName": не является членом "Item".
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.h(5,7): message : см. объявление "Item"
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Store.cpp(80,43): error C2039: "getName": не является членом "Item".
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.h(5,7): message : см. объявление "Item"
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Store.cpp(86,16): error C2039: "getName": не является членом "Item".
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.h(5,7): message : см. объявление "Item"
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Store.cpp(87,25): error C2039: "getName": не является членом "Item".
+D:\Studia\Semestr 3\Programowanie obiektowe\Obiektowe\Obiektowe\Item.h(5,7): message : см. объявление "Item"
+  Создание кода...

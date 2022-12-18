@@ -1,0 +1,9 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (Obiektowe.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Item.cpp
+  main.cpp
+  RPGGame.cpp
+  SimulationGame.cpp
+  Store.cpp
+D:\Studia\Semestr 3\Programowanie obiektowe\Project_1\Obiektowe\Store.cpp(87,43): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  Obiektowe.vcxproj -> D:\Studia\Semestr 3\Programowanie obiektowe\Project_1\x64\Debug\Project_1.exe
